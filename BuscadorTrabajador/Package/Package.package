@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="280f9ba6-fb8b-43f5-a3f6-16d7c0d7cce0" 
+        solutionId="280f9ba6-fb8b-43f5-a3f6-16d7c0d7cce0" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="BuscadorTrabajador"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="6d3d84f2-a833-4e76-8649-d364b9f06c66" />
+  </features>
+</package>
